@@ -1,0 +1,6 @@
+{
+  "name": "KTM-Inspired Motorcycle Showroom",
+  "description": "Modern, aggressive sports motorcycle showroom featuring the Duke series, interactive test ride booking, performance specifications, and showroom locator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
